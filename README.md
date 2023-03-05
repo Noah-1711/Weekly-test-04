@@ -4,5 +4,5 @@
 
 **This is a react-app. I have used the Concepts like Components,Props and Hooks such as usestate.**
 
-**Tech stack used: HTML,Css,React-js**
+**Tech stack used: HTML,Css, Javascript,React-js**
 
