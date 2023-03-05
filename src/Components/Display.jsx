@@ -4,7 +4,9 @@ import './Display.css'
 export const Display = (props) => {
   return (
     <div className='displaycontainer'>
-        <input  value={props.btnvalue}type="text" />
+        <h1 style={{color:"orange"}}>{props.displayinput}</h1>
+        <p>{props.btnvalue}</p>
+     
     </div>
   )
 }
